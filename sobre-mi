@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sobre mí — Mar Torro</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+
+        <a href="index.html" class="logo">
+            MAR TORRO
+        </a>
+
+        <div class="menu">
+            <a href="sobre-mi.html">Sobre mí</a>
+            <a href="proyectos.html">Proyectos</a>
+            <a href="contacto.html">Contacto</a>
+        </div>
+
+    </nav>
+
+
+    <main class="about">
+
+        <p class="small-title">
+            SOBRE MÍ
+        </p>
+
+        <h1>
+            Social Media Manager<br>
+            & Content Creator.
+        </h1>
+
+        <p class="about-text">
+            Soy Mar Torro, Social Media Manager y creadora de
+            contenido especializada en comunicación digital,
+            estrategia de contenidos y creación audiovisual.
+        </p>
+
+        <p class="about-text">
+            He trabajado con marcas de distintos sectores,
+            desarrollando estrategias de contenido, gestionando
+            redes sociales y creando piezas audiovisuales y
+            gráficas orientadas a mejorar su visibilidad,
+            engagement y crecimiento.
+        </p>
+
+
+        <h2>
+            Experiencia
+        </h2>
+
+        <div class="experience">
+
+            <div class="experience-item">
+
+                <span>11/25 — ACTUALIDAD</span>
+
+                <div>
+                    <h3>Social Media Manager</h3>
+                    <p>Nina Nutt</p>
+
+                    <p>
+                        Gestión integral de redes sociales,
+                        community management, estrategia,
+                        ideación, producción y edición de
+                        contenido.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="experience-item">
+
+                <span>01/25 — 11/25</span>
+
+                <div>
+                    <h3>Social Media & Diseño Gráfico</h3>
+                    <p>Guru</p>
+
+                    <p>
+                        Gestión de redes sociales, planificación
+                        de contenidos, creación y edición de
+                        contenido y diseño gráfico.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="experience-item">
+
+                <span>10/23 — 05/24</span>
+
+                <div>
+                    <h3>Periodista y Social Media</h3>
+                    <p>AVA-ASAJA</p>
+
+                    <p>
+                        Redacción, creación de contenido,
+                        cobertura de eventos, gestión de redes,
+                        grabación y edición audiovisual.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="experience-item">
+
+                <span>07/22 — 06/23</span>
+
+                <div>
+                    <h3>Auxiliar de Social Media</h3>
+                    <p>Socialize-me</p>
+
+                    <p>
+                        Community management, creación y gestión
+                        de contenido, analíticas, redacción de
+                        blogs y optimización SEO.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <h2>
+            Formación
+        </h2>
+
+        <div class="education">
+
+            <h3>
+                Grado en Comunicación Audiovisual
+            </h3>
+
+            <p>
+                Universitat de València · 2019 — 2023
+            </p>
+
+        </div>
+
+
+        <h2>
+            Herramientas
+        </h2>
+
+        <div class="tools">
+
+            <p>Adobe Photoshop</p>
+            <p>Adobe Illustrator</p>
+            <p>Adobe InDesign</p>
+            <p>Adobe Premiere Pro</p>
+            <p>CapCut</p>
+            <p>Canva</p>
+            <p>Meta Business</p>
+            <p>Metricool</p>
+            <p>Notion</p>
+            <p>Mailchimp</p>
+            <p>Brevo</p>
+            <p>WordPress</p>
+
+        </div>
+
+
+        <h2>
+            Idiomas
+        </h2>
+
+        <div class="languages">
+
+            <p>Inglés · B2 — Cambridge First Certificate</p>
+            <p>Valenciano · C1</p>
+
+        </div>
+
+    </main>
+
+</body>
+
+</html>
